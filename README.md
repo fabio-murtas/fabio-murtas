@@ -19,9 +19,8 @@ I'm a data professional transitioning from research and science education into a
 
 ## Skills
 
-**Data Tools:** SQL • Python (Pandas, NumPy, SciPy) • Power BI • Excel  
-**Methods:** Statistical analysis • Data modeling • ETL pipelines • Business intelligence  
-**Other:** Linux • Cybersecurity fundamentals • Blockchain/Web3 basics  
+**Data Tools:** SQL • Python (Pandas, NumPy, SciPy) • Power BI • Excel
+**Methods:** Statistical analysis • Data modeling • ETL pipelines • Business intelligence 
 
 ## Get In Touch
 
